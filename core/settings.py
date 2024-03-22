@@ -128,10 +128,3 @@ STATIC_URL = 'static/'
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
 
-from decouple import config 
-
-# Email settings
-SENHA_EMAIL = config('SENHA_EMAIL')
-EMAIL = config('EMAIL')
-
-
