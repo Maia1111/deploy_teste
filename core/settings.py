@@ -77,10 +77,10 @@ WSGI_APPLICATION = 'core.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME':'teste_db_1i8t',
+        'NAME':'churrascaria_db_0cwa',
         'USER':'admin',
-        'PASSWORD':'XMyMvAgvDRD32chqOnB8kXnZyzyViuNv',
-        'HOST':'dpg-cnuo9vocmk4c73ffq8vg-a.oregon-postgres.render.com',
+        'PASSWORD':'VoqoBa51kdG76EFRgBbUPSeMAfbcwY4c',
+        'HOST':'dpg-cnup5cacn0vc73b826k0-a.oregon-postgres.render.com',
         'PORT':'5432',
     }
 }
